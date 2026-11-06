@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Bora Uğur — AI destekli yazılım ve dijital sistemler" />
+<img src="bora-ugur-banner.png" width="100%" alt="Bora Uğur — AI destekli yazılım ve dijital sistemler" />
 
 **Freelance Yazılım Geliştirici · İzmir, Türkiye**
 
@@ -14,7 +14,7 @@
 
 ### Merhaba, ben Bora.
 
-Web uygulamaları, çok kiracılı SaaS platformları, yönetim panelleri ve iş süreçleri otomasyonları geliştiriyorum. Yapay zekâ destekli geliştirme araçlarını, gerçek işletme ihtiyaçlarını çözmek için kullanıyorum; arayüzden veritabanına, API entegrasyonlarından sunucuya ve yayına alma sürecine kadar çalışıyorum.
+Web ve mobil uygulamalar, çok kiracılı SaaS platformları, yönetim panelleri ve iş süreçleri otomasyonları geliştiriyorum. Yapay zekâ destekli geliştirme araçlarını, gerçek işletme ihtiyaçlarını çözmek için kullanıyorum; arayüzden veritabanına, API entegrasyonlarından sunucuya ve yayına alma sürecine kadar çalışıyorum.
 
 🎓 **Atatürk Üniversitesi — Bilgi Yönetimi** öğrencisiyim.  
 💼 **Freelance** olarak özel yazılım ve dijitalleşme projeleri üzerinde çalışıyorum.  
@@ -26,7 +26,7 @@ Web uygulamaları, çok kiracılı SaaS platformları, yönetim panelleri ve iş
 <tr>
 <td width="50%" valign="top">
 <h3>01 / SaaS & Web</h3>
-Çok kiracılı uygulamalar, işletmeye özel yönetim panelleri, müşteri portalları ve PWA çözümleri.
+Web sitesi tasarımı, web ve mobil uygulama geliştirme; çok kiracılı platformlar, yönetim panelleri ve PWA çözümleri.
 </td>
 <td width="50%" valign="top">
 <h3>02 / AI & Otomasyon</h3>
@@ -40,23 +40,28 @@ Lojistik operasyonları, danışan ve klinik takibi, teknik servis, sipariş ve 
 </td>
 <td width="50%" valign="top">
 <h3>04 / Altyapı & Yayın</h3>
-Linux sunucular, veritabanları, hosting, DNS, Cloudflare Tunnel ve uygulama dağıtımı.
+AI destekli sunucu kurulumları, Linux, veritabanları, hosting, DNS, Cloudflare Tunnel ve uygulama dağıtımı.
 </td>
 </tr>
 </table>
 
 ### Seçilmiş çalışmalar
 
-Web sitemde tanıttığım projelerden bir seçki:
+Üzerinde çalıştığım ürünler ve işletme çözümleri:
 
 | Çalışma | Çözdüğü ihtiyaç | Odak |
 | :--- | :--- | :--- |
-| **Atlas OPS** | Nakliye işletmelerinde sevkiyat, müşteri, sürücü ve cari süreçlerini bir araya getiren operasyon platformu. | Lojistik · Multi-tenant SaaS |
+| **Atlas OPS** | Nakliye ve lojistikte belge takibi, faturalandırma, sevkiyat ve operasyon kontrolünü bir araya getiren uygulama. | Lojistik · Multi-tenant SaaS |
 | **DoboTrack** | Diyetisyenlerin danışan, ölçüm, ödeme ve takip süreçlerini yönetmesini sağlayan platform. | Klinik yönetimi · PWA · AI |
 | **EgeBest Service** | Cihaz kabulü, QR kodla takip ve servis işlemlerini dijitalleştiren sistem. | Teknik servis · QR · Yazıcı entegrasyonu |
+| **Özel doktor klinikleri** | Hasta takibi ve hekimlere yönelik yapay zekâ destekli tanı desteği uygulamaları. | Klinik yazılımları · AI desteği |
 | **Baskı Kapımda** | Baskı ve promosyon ürünlerinde teklif, fiyatlandırma ve sipariş yönetimi. | Ticaret · Operasyon · Yönetim paneli |
 
 > Projelerimin kaynak kodları ve müşteri verileri özeldir. Bu profil yalnızca çalışma alanlarımı ve kamuya açık portföy özetlerimi içerir.
+
+### Öne çıkan deneyim / Atılım Gıda
+
+**Atılım Gıda, bugüne kadarki en önemli çalışmalarım arasında yer alıyor.** Geçmiş görevimde gıda dağıtımı ve soğuk zincir operasyonlarında depo, sevkiyat, veri takibi, raporlama ve saha-merkez entegrasyonunun dijitalleşmesine katkı sağladım. Bu saha deneyimi, gerçek iş ihtiyaçlarını yazılıma dönüştürme yaklaşımımın önemli bir parçası.
 
 ### Teknoloji çantam
 
