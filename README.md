@@ -63,6 +63,11 @@ AI destekli sunucu kurulumları, Linux, veritabanları, hosting, DNS, Cloudflare
 
 **Atılım Gıda, bugüne kadarki en önemli çalışmalarım arasında yer alıyor.** Geçmiş görevimde gıda dağıtımı ve soğuk zincir operasyonlarında depo, sevkiyat, veri takibi, raporlama ve saha-merkez entegrasyonunun dijitalleşmesine katkı sağladım. Bu saha deneyimi, gerçek iş ihtiyaçlarını yazılıma dönüştürme yaklaşımımın önemli bir parçası.
 
+### Üretim ve 3D tasarım
+
+**Çözüm Mühendislik — CNC Operatörü (2023)**  
+CNC operatörlüğü ve makine kullanımıyla üretim sahasında deneyim kazandım. **Temel CAD/CAM bilgisi**, **3 boyutlu modelleme ve tasarım** da teknik yetkinliklerim arasında yer alıyor.
+
 ### Teknoloji çantam
 
 | Katman | Çalıştığım teknolojiler |
